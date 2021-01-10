@@ -1,6 +1,6 @@
+Moduł pickle służy do peklowania obiektów, czyli serializacji obiektów i deserializacji.<br /> 
 
-Moduł pickle służy do peklowania obiektów, czyli serializacji obiektów i deserializacji. <br />
-Funkcja dumps przekształca obiekt w bajty    <br />
+Funkcja dumps przekształca obiekt w bajty  <br />
 Przykład <br />
 import pickle <br />
 dane = { 'imie':'adam', 'nazwisko':'nowak', 'ocena':3.0 } <br />
